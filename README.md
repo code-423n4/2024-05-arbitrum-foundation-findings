@@ -24,7 +24,7 @@ Note: It’s important to be sure to **only review issues from the curated lists
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h2>Types of findings</h2> (expand to read more)</summary>
 
-### High or Medium risk findings
+### High- or Medium-risk findings
 
 Wardens submit issues without seeing each other's submissions, so keep in mind that there will always be findings that are duplicates. For all issues labeled `3 (High Risk)` or `2 (Medium Risk)`, these have been pre-sorted for you so that there is only one primary issue open per unique finding. All duplicates have been labeled `duplicate`, linked to a primary issue, and closed.
 
@@ -43,7 +43,7 @@ Any warden submissions in these two categories are submitted as bulk listings of
 
 <sup>This curated list will shorten as you work. [View the original, longer list →](../../issues?q=is%3Aopen+is%3Aissue+label%3A"2+%28Med+Risk%29"%2C"3+%28High+Risk%29"+-label%3Aunsatisfactory%2C"insufficient+quality+report")</sup>
 
-For each curated High or Medium risk finding, please:
+For each curated High- or Medium-risk finding, please:
 
 ### 1a. Label as one of the following:
 
