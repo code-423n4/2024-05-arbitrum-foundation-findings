@@ -1,0 +1,8 @@
+{
+  "contest": 375,
+  "handle": "SpicyMeatball",
+  "risk": "3",
+  "title": "A flaw in the time confirmation mechanism enables the confirmation of erroneous edges.",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/6"
+}
