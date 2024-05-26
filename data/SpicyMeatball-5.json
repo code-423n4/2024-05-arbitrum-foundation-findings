@@ -1,0 +1,8 @@
+{
+  "contest": 375,
+  "handle": "SpicyMeatball",
+  "risk": "2",
+  "title": "`BOLDUpgradeAction.sol` will fail to upgrade contracts due to error in the `perform` function",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/5"
+}
