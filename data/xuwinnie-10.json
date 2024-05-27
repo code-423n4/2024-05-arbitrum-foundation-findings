@@ -1,0 +1,8 @@
+{
+  "contest": 375,
+  "handle": "xuwinnie",
+  "risk": "3",
+  "title": "`checkClaimIdLink` does not check `ClaimId`",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/10"
+}
