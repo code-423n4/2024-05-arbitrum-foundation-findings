@@ -19,3 +19,27 @@ These left-shifted Merkle trees could theoretically pass the `verifyInclusionPro
 - the caller is able to provide a `proof` because by knowing the elements of the original expansion, they know the preimage of elements that build up to the legitimate root
 
 There doesn't seem to be any way to directly exploit this issue because all practical usages of expansions within the protocol scope have odd numbers of elements, however, it is warmly recommended to also hash the leading zeros when computing the Merkle trees to have an in-depth defense against this kind of attack.
+
+### [L-02] Inconsistent handling of overflow assertions
+
+## Description
+According to the documentation and technical deep dive, an overflow assertion should refer to the assertion that follows one where the block limit was reached but not all messages were processed. However, in the implementation within the `createNewAssertion()` function, the flag for an overflow assertion is set during the creation of the overflowing assertion itself, not the subsequent one. This discrepancy leads to a bypass of the 1-hour delay, applying instead to the assertion that actually overflows.
+
+## Proof of Concept
+1. A validator creates an assertion that reaches the block limit but does not process all inbox messages, triggering the overflow condition.
+2. The system incorrectly flags this as the overflow assertion and applies the 1-hour delay bypass to this assertion instead of the next one.
+3. The next assertion, which should be allowed to be posted immediately following the overflowing one, can only be posted after 1 hour.
+
+Relevant code snippet from `createNewAssertion()`:
+```
+if (assertion.afterState.machineStatus != MachineStatus.ERRORED && afterStateCmpMaxInbox < 0) {
+    overflowAssertion = true;
+    ...
+}
+```
+
+## Tools Used
+Manual review
+
+## Recommended Mitigation Steps
+To align the implementation with the intended functionality as described in the documentation, the handling of the overflow assertion flag should be adjusted. The flag should be set for the assertion following the one that actually overflows, not during the creation of the overflowing assertion itself.
