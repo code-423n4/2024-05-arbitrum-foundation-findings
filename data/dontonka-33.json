@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "dontonka",
+  "risk": "2",
+  "title": "Upgrades to EdgeChallengeManager could `DoS the assertion chain` temporarily until admin unstuck it by forcing assertion",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/33",
+  "originalIssueId": 283,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/283"
+}

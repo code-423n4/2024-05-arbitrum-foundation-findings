@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "Emmanuel",
+  "risk": "3",
+  "title": "An invalid assertion can get confirmed, even when there are honest participants",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/28",
+  "originalIssueId": 291,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/291"
+}

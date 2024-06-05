@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "dontonka",
+  "risk": "3",
+  "title": "Upgrades to EdgeChallengeManager using setChallengeManager can allow to confirm bad assertion",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/48",
+  "originalIssueId": 133,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/133"
+}

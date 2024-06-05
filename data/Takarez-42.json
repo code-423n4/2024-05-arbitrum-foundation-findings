@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "Takarez",
+  "risk": "2",
+  "title": "Number Of Staker Count Can Be Lost If It's > 50",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/42",
+  "originalIssueId": 168,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/168"
+}

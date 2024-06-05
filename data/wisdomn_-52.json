@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "wisdomn_",
+  "risk": "3",
+  "title": "Duplicate edges with the same edge id can be created, which breaks the protocol's main invariant.",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/52",
+  "originalIssueId": 81,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/81"
+}

@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "fyamf",
+  "risk": "3",
+  "title": "Preventing stakers from withdrawing after the rollup update",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/51",
+  "originalIssueId": 98,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/98"
+}

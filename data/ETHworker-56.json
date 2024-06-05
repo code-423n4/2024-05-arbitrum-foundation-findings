@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "ETHworker",
+  "risk": "3",
+  "title": "Buffer Depletion Vulnerability in DelayBuffer Library",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/56",
+  "originalIssueId": 4,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/4"
+}
