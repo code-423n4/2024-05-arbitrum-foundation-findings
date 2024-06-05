@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "dontonka",
+  "risk": "2",
+  "title": "Upgrades to EdgeChallengeManager changing staking requirement can cause `funds loss`",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/49",
+  "originalIssueId": 132,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/132"
+}

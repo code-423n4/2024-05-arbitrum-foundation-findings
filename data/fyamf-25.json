@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "fyamf",
+  "risk": "3",
+  "title": "Creating invalid assertion using honest parties' staked funds",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/25",
+  "originalIssueId": 305,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/305"
+}

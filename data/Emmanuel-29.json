@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "Emmanuel",
+  "risk": "2",
+  "title": "If an edge or assertion gets slashed, some depositors to the stakingPool will be cheated.",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/29",
+  "originalIssueId": 290,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/290"
+}

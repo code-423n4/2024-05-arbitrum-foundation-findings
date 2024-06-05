@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "Jorgect",
+  "risk": "3",
+  "title": " A malicious validator can avoid loss his money doing bad assertions",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/38",
+  "originalIssueId": 235,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/235"
+}

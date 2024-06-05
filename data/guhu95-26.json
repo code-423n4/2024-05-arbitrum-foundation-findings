@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "guhu95",
+  "risk": "3",
+  "title": " L2 sequencer can exploit L3 chains using force inclusion delays",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/26",
+  "originalIssueId": 297,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/297"
+}

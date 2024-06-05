@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "0x73696d616f",
+  "risk": "2",
+  "title": "`SequencerInbox::_setBufferConfig()` changes the parameters if not all delayed messages were read, leading to different past buffer delay",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/54",
+  "originalIssueId": 59,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/59"
+}

@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "twcctop",
+  "risk": "2",
+  "title": " Old rollup whose count > 50  may lose their stake when upgrading to new rollup",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/41",
+  "originalIssueId": 171,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/171"
+}

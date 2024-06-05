@@ -1,0 +1,10 @@
+{
+  "contest": 375,
+  "handle": "dontonka",
+  "risk": "2",
+  "title": "BOLDUpgradeAction::cleanupOldRollup is broken whenever there is more than a single staker to refund",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings/issues/53",
+  "originalIssueId": 77,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation/issues/77"
+}
